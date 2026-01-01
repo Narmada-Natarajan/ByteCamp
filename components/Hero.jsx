@@ -5,8 +5,8 @@ import { FaGraduationCap } from "react-icons/fa";
 const Hero = () => {
     return (
         <div>
-            <section className="pt-32 pb-24 my-5 bg-linear-to-b from-green-50 to-white">
-                <div className="max-w-7xl mx-auto my-10 px-6 grid md:grid-cols-2 gap-16 items-center">
+            <section className="pt-32 pb-24 md:my-15 bg-linear-to-b from-green-50 to-white">
+                <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
                     <div>
                         <h2 className="text-4xl md:text-5xl font-bold leading-tight">
                             We build smart
