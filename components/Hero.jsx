@@ -23,7 +23,7 @@ const Hero = () => {
 
                     <div className="relative">
                         <div className="absolute -top-10 -left-10 w-72 h-72 bg-green-100 rounded-full blur-3xl"></div>
-                        <img src="src/assets/bytecampimg.png" alt="hero" className="relative z-10 rounded-3xl shadow-xl" />
+                        <img src="assets/bytecampimg.png" alt="hero" className="relative z-10 rounded-3xl shadow-xl" />
                     </div>
                 </div>
             </section>

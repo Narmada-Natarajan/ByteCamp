@@ -18,7 +18,7 @@ export function Testimonials() {
           <div className="bg-white p-6 rounded-2xl shadow hover:shadow-xl transition duration-300 flex justify-center">
             <img
               className="rounded-xl object-contain h-48"
-              src="src/assets/r1.png"
+              src="assets/r1.png"
               alt="First client review"
             />
           </div>
@@ -27,7 +27,7 @@ export function Testimonials() {
           <div className="bg-white p-6 rounded-2xl shadow hover:shadow-xl transition duration-300 flex justify-center">
             <img
               className="rounded-xl object-contain h-48"
-              src="src/assets/r2.png"
+              src="assets/r2.png"
               alt="Second client review"
             />
           </div>
@@ -36,7 +36,7 @@ export function Testimonials() {
           <div className="bg-white p-6 rounded-2xl shadow hover:shadow-xl transition duration-300 flex justify-center">
             <img
               className="rounded-xl object-contain h-48"
-              src="src/assets/r3.png"
+              src="assets/r3.png"
               alt="Third client review"
             />
           </div>
