@@ -13,7 +13,7 @@ const Hero = () => {
                             <span className="text-green-600"> tech projects</span> for college success
                             <FaGraduationCap className="inline-block ml-3 text-green-500 text-4xl md:text-5xl align-middle" />
                         </h2>
-                        <p className="mt-6 text-gray-600 text-lg ">From idea to final delivery, we provide clean code, Live demos, and complete Documentation. Trusted by hundreds of students.
+                        <p className="mt-6 text-gray-600 text-lg text-justify ">From idea to final delivery, we provide clean code, live demos and complete documentation. Trusted by hundreds of students.
                         </p>
                         <a href="https://api.whatsapp.com/send?phone=919445757405&text=Hi%20ByteCamp,%20I%20need%20a%20college%20project" target="_blank" rel="noopener noreferrer" className="mt-8 inline-flex items-center gap-2 border border-green-500 text-green-600 px-6 py-2 rounded-xl hover:bg-green-50 transition">
                             <FaWhatsapp className="text-green-500 text-xl" />
